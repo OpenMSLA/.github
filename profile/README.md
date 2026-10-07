@@ -54,4 +54,4 @@ All three blocks communicate using a custom byte-based protocol over UART. The p
 
 ---
 
-**Created by [AndcoolSystems](https://github.com/AndcoolSystems)**
+**Created by [AndcoolSystems](https://github.com/Andcool-Systems)**
