@@ -48,6 +48,10 @@ All three blocks communicate using a custom byte-based protocol over UART. The p
 > [!NOTE]
 > Hardware schematics, 3D models, and other physical sources will be available later, *one day...*
 
+## Special Thanks
+- [@I_KODI_I](https://t.me/I_KODI_I) for the main screen standby pixel art
+
+
 ---
 
 **Created by [AndcoolSystems](https://github.com/AndcoolSystems)**
